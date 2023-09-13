@@ -60,7 +60,7 @@
 
 9) Acknowledgments:
 
-    This Snake Game was created as a group project for MIT course. It represents the culmination of your knowledge and skills in C++ programming. Special thanks to MIT course instructors for their guidance and support during your learning journey.
+This Snake Game was developed as a collaborative project for an MIT course, serving as the culmination of our collective expertise in C++ programming. We extend our sincere gratitude to the instructors of the MIT course for their invaluable guidance and unwavering support throughout our educational journey. Additionally, I would like to express my profound appreciation to each member of our group who demonstrated a high level of commitment and dedication to the successful completion of this project.
 
-11) Additional Notes
-    This project demonstrates our ability to design and implement a complete C++ program.
+11) Additional Notes:
+    This project represents a significant milestone in our C++ programming journey and serves as a testament to our newfound skills
