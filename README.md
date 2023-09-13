@@ -15,9 +15,9 @@
     6. An option to exit the game.
     7. Colorful user interface.
     
-2) Instructions
+3) Instructions
 
-  2.1) Controls:
+  3.1) Controls:
   
       W: Move the snake upwards.
       S: Move the snake downwards.
@@ -26,42 +26,41 @@
       Space: Pause the game.
       X: Quit the game.
   
-  2.2) Gameplay:
+  3.2) Gameplay:
   
       Collect all food items to increase your score.
       Avoid collisions with the snake's own body.
       In level 2, also avoid collisions with the center wall.
   
-  2.3) How to Run:
+  3.3) How to Run:
   
       1. Ensure you have a C++ compiler installed (e.g., g++, Visual C++).
       2. Compile the source code and run the executable.
-      3. To run the code you may need to use the following command :-
-          g++ snake_game.cpp -o snake_game.exe
-          ./snake_game.exe
+      3. To run the code you may need to use the following command:-
+            g++ snake_game.cpp -o snake_game.exe
+            ./snake_game.exe
       4. Follow the on-screen instructions to choose the color theme and difficulty level.
 
-
-3) Color Themes:
+4) Color Themes:
 
     Aqua: Bright cyan-based theme.
     Yellow: Vibrant yellow theme.
     White: Classic white theme.
     Purple: Stylish purple theme.
 
-4) Levels:
+5) Levels:
 
     Level 1: Collect food items and avoid collisions with your snake's body.
     Level 2: In addition to level 1 rules, collect all food items and avoid the center wall.
 
-5) Scoring:
+6) Scoring:
 
     Your score increases with each collected food item.
     The game advances to level 2 when you reach a specific score (configurable).
 
-6) Acknowledgments:
+7) Acknowledgments:
 
 This Snake Game was developed as a collaborative project for the MIT course, serving as the culmination of our collective expertise in C++ programming. We extend our sincere gratitude to the instructors of the MIT course for their invaluable guidance and unwavering support throughout our educational journey. Additionally, I would like to express my profound appreciation to each member of our group who demonstrated a high level of commitment and dedication to the successful completion of this project.
 
-7) Additional Notes:
+8) Additional Notes:
     This project represents a significant milestone in our C++ programming journey and serves as a testament to our newfound skills
