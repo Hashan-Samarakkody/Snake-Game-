@@ -1,11 +1,11 @@
-                                                    Snake Game in C++
+#                                                    Snake Game in C++
 
 
-1) Introduction:
+##1) Introduction:
 
     This is a simple console-based Snake Game written in C++. It offers a classic Snake gaming experience with additional features, including multiple difficulty levels and the ability to advance to the second level by reaching a certain score.
 
-2) Features:
+##2) Features:
 
     1. Four color themes to choose from: Aqua, Yellow, White, and Purple.
     2. Three difficulty levels: Easy, Medium, and Hard.
@@ -15,7 +15,7 @@
     6. An option to exit the game.
     7. Colorful user interface.
     
-3) Instructions
+##3) Instructions
 
   3.1) Controls:
   
@@ -41,26 +41,26 @@
             ./snake_game.exe
       4. Follow the on-screen instructions to choose the color theme and difficulty level.
 
-4) Color Themes:
+##4) Color Themes:
 
     Aqua: Bright cyan-based theme.
     Yellow: Vibrant yellow theme.
     White: Classic white theme.
     Purple: Stylish purple theme.
 
-5) Levels:
+##5) Levels:
 
     Level 1: Collect food items and avoid collisions with your snake's body.
     Level 2: In addition to level 1 rules, collect all food items and avoid the center wall.
 
-6) Scoring:
+##6) Scoring:
 
     Your score increases with each collected food item.
     The game advances to level 2 when you reach a specific score (configurable).
 
-7) Acknowledgments:
+##7) Acknowledgments:
 
 This Snake Game was developed as a collaborative project for the MIT course, serving as the culmination of our collective expertise in C++ programming. We extend our sincere gratitude to the instructors of the MIT course for their invaluable guidance and unwavering support throughout our educational journey. Additionally, I would like to express my profound appreciation to each member of our group who demonstrated a high level of commitment and dedication to the successful completion of this project.
 
-8) Additional Notes:
+##8) Additional Notes:
     This project represents a significant milestone in our C++ programming journey and serves as a testament to our newfound skills
